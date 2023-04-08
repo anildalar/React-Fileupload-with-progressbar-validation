@@ -1,0 +1,13 @@
+React File(Image) uploading with preview image, progressbar and clientside validation
+
+1. Fresh Install ReactJs  Frontend
+2. Fresh Install StrapiJs Backend (Validation)
+3. Prepare the postman collection for fileuplaod
+	  POST > BODY > FORMDATA
+4. Form Design Frontend in any component (App.js)
+
+
+
+For calling the API you can use
+1.FetchApi
+2. Axios library
